@@ -1,0 +1,6 @@
+{
+  "api_key_id": "YOUR_ALPACA_API_KEY_ID",
+  "api_secret_key": "YOUR_ALPACA_API_SECRET_KEY",
+  "base_url": "https://paper-api.alpaca.markets",
+  "is_paper": true
+}

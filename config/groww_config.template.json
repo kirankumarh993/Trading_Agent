@@ -1,0 +1,7 @@
+{
+  "auth_mode": "totp",
+  "access_token": "YOUR_DAILY_ACCESS_TOKEN_IF_USING_TOKEN_MODE",
+  "api_key": "YOUR_GROWW_API_KEY_OR_TOTP_TOKEN",
+  "api_secret": "YOUR_GROWW_API_SECRET",
+  "totp_secret": "YOUR_GROWW_BASE32_TOTP_SECRET"
+}

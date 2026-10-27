@@ -1,0 +1,7 @@
+{
+  "user_key": "YOUR_5PAISA_USER_KEY",
+  "encryption_key": "YOUR_5PAISA_ENCRYPTION_KEY",
+  "client_code": "YOUR_5PAISA_CLIENT_CODE",
+  "pin": "YOUR_PIN",
+  "totp_secret": "YOUR_BASE32_TOTP_SECRET"
+}

@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_BREEZE_API_KEY",
+  "api_secret": "YOUR_BREEZE_SECRET",
+  "session_token": "YOUR_MORNING_SESSION_TOKEN"
+}

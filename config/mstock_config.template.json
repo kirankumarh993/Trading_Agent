@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_MSTOCK_API_KEY",
+  "api_secret": "YOUR_MSTOCK_API_SECRET",
+  "client_id": "YOUR_MSTOCK_CLIENT_ID"
+}
